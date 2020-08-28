@@ -1,1 +1,4 @@
 Hey, it is tracking my activities and prompting me.
+
++ Git day 2
+
